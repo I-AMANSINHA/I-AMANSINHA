@@ -1,5 +1,5 @@
 Hi there, I'm Aman Sinha! 👋
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;AWS+%7C+AWS+AZURE+GCP;Automation+Advocate" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;AWS+%7C+AZURE+%7C+GCP;Automation+Advocate" alt="Typing SVG" /> </div>
 🚀 About Me
 I'm a passionate DevOps Engineer with expertise in cloud computing, infrastructure automation, and CI/CD pipelines. I love turning complex infrastructure challenges into elegant, automated solutions.
 🔭 Currently working on GCP Cloud, E2E and AWS
@@ -17,7 +17,7 @@ I'm a passionate DevOps Engineer with expertise in cloud computing, infrastructu
 🗄️ Databases & Monitoring
  
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=I-AMANSINHA&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> </div><img src="https://github-readme-streak-stats.herokuapp.com/?user=I-AMANSINHA&theme=radical&hide_border=false" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AMANSINHA&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=I-AMANSINHA&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-AMANSINHA&theme=radical&hide_border=false" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AMANSINHA&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /> </div>
 🏗️ Terraform AWS Infrastructure
 
 - Infrastructure as Code solution for AWS resource provisioning
@@ -39,7 +39,7 @@ I'm a passionate DevOps Engineer with expertise in cloud computing, infrastructu
 <div align="center">
    
 </div>
-💭 Quote
+
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=I-AMANSINHA&style=flat-square&color=blue" alt="Profile Views" />
 
  "Trust the process!" 🚀
