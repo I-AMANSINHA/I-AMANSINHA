@@ -1,13 +1,21 @@
 Hi there, I'm Aman Sinha! 👋
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;AWS+%7C+AZURE+%7C+GCP;Automation+Advocate" alt="Typing SVG" /> </div>
 🚀 About Me
+
 I'm a passionate DevOps Engineer with expertise in cloud computing, infrastructure automation, and CI/CD pipelines. I love turning complex infrastructure challenges into elegant, automated solutions.
+
 🔭 Currently working on GCP Cloud, E2E and AWS
+
 🌱 Learning Kubernetes and Terraform
+
 👯 Looking to collaborate on Open Source DevOps Projects
+
 💬 Ask me about AWS, Azure, Terraform, Jenkins
+
 ⚡ Fun fact: I believe in "Infrastructure as Code" for everything!
+
 🛠️ Tech Stack
+
 ☁️ Cloud Platforms
  
 🔧 DevOps Tools
@@ -33,7 +41,7 @@ I'm a passionate DevOps Engineer with expertise in cloud computing, infrastructu
 
 - Tech: TypeScript, Automated Testing
 - Performance monitoring
-📈 Activity Graph
+📈 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-AMANSINHA&theme=redical&hide_border=true" alt="Activity Graph" /> </div>
 🤝 Let's Connect!
 <div align="center">
